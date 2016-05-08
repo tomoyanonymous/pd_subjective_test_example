@@ -1,0 +1,5 @@
+#N canvas 423 235 366 533 10;
+#X declare -lib cyclone;
+#X declare -lib mrpeach;
+#X declare -lib moocow;
+#X obj 37 37 main;
